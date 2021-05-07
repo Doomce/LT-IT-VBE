@@ -1,1 +1,1 @@
-# LT-VBE
+Informacinių technologijų VBE atliktos užduotys
