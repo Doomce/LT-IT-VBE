@@ -29,7 +29,7 @@ void SekundesILaika(long secs, int &h, int &mins, int &s) {
 }
 
 void Skaitymas(Sportininkas SP[], int &n, int &m) {
-    ifstream Df("U1.txt");
+    ifstream Df("U1.txt"); //Turi buti U2.txt
     char Name[20];
     int ID, h, mins, s, taskas;
     Df>>n;
