@@ -1,0 +1,15 @@
+4
+24val.eu Gyvenimas 2 T T
+Kasdienis.lt Sveikata 6 M T T M T T
+LRdiena.lt Orai 4 T T T T
+LRdiena.lt Politika 3 T T M
+
+ARBA:
+
+6
+Manodiena.lt Sportas 5 M M M T M
+TIKLietuvoje.lt Kriminalai 6 M T T T T M
+24val.eu Politika 4 M M M M
+LRdiena.lt Orai 5 M M M M T
+LRdiena.lt Sveikata 3 T T T
+24val.eu Legendos 4 M M M T
